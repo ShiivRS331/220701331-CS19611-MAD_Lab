@@ -1,4 +1,4 @@
-# Git Help - Git Command Explorer 📘
+# git --help Git Command Explorer 
 
 **Git Help** is an Android application developed using Kotlin that allows users to quickly find and understand Git commands based on categorized actions. It simplifies Git usage by offering an intuitive UI, offline access, and command-related notes. Perfect for beginners and a handy reference for experienced developers.
 
