@@ -5,6 +5,9 @@
 
 ---
 
+**To download the ap you can use the apk file**
+
+
 ## 📱 Features
 
 - 🔍 Explore Git commands via dropdown-based primary and secondary options.
