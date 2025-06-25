@@ -5,7 +5,7 @@
 
 ---
 
-**To download the ap you can use the apk file**
+**To download the app you can use the [apk](https://github.com/ShiivRS331/220701331-CS19611-MAD_Lab/blob/main/PROJECT%3A%20git--help/git%20--help.apk) file**
 
 
 ## 📱 Features
